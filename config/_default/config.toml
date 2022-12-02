@@ -15,7 +15,7 @@ googleAnalytics = "G-7JC61E9ZWE"
     { link = { href = "https://forms.gle/16Ru7kF6Rmhfp7oa7", text = "Topluluğa Katıl", icon = "arrow-up-right-from-square-solid" } },
     { user-ninja = { href = "https://ulusec.com", text = "UluSec Anasayfa", icon = "user-ninja" } },
     { discord = "https://dc.ulusec.com" },
-    { instagram = "https://instagram.com/ulus3c" },
+    { instagram = "https://ig.ulusec.com" },
     { linkedin = "https://www.linkedin.com/company/ulusec" },
   ]
 
