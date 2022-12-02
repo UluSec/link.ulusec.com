@@ -1,0 +1,27 @@
+baseURL = "https://link.ulusec.com"
+title = "UluSec"
+theme = "lynx"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+googleAnalytics = "G-7JC61E9ZWE"  
+
+[author]
+  name = "UluSec"
+  headline = "Bursa Uludağ Üniversitesi Siber Güvenlik Topluluğu"
+  image = "ulusec.webp"
+  links = [
+    { link = { href = "https://forms.gle/16Ru7kF6Rmhfp7oa7", text = "Topluluğa Katıl", icon = "arrow-up-right-from-square-solid" } },
+    { user-ninja = { href = "https://ulusec.com", text = "UluSec Anasayfa", icon = "user-ninja" } },
+    { discord = "https://dc.ulusec.com" },
+    { instagram = "https://instagram.com/ulus3c" },
+    { linkedin = "https://www.linkedin.com/company/ulusec" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
