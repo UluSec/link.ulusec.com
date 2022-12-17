@@ -1,4 +1,4 @@
-.link-link {
+.link-link-1 {
     background: rgb(29, 55, 122);
     background: linear-gradient(
       90deg,
@@ -6,6 +6,16 @@
       rgba(18, 44, 52, 1) 67%
       /* rgba(123, 193, 207, 1) 100% */
     );
+}
+
+.link-link-2 {
+  background: rgb(29, 55, 122);
+  background: linear-gradient(
+    90deg,
+    rgba(168, 193, 255, 1) 0%,
+    rgba(63, 43, 150, 1) 67%
+    /* rgba(123, 193, 207, 1) 100% */
+  );
 }
 
 .link-user-ninja {
