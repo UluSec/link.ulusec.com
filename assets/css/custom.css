@@ -18,6 +18,16 @@
   );
 }
 
+.link-link-3 {
+  background: rgb(29, 55, 122);
+  background: linear-gradient(
+    90deg,
+    rgba(69, 162, 71, 1) 0%,
+    rgba(40, 60, 134, 1) 67%
+    /* rgba(123, 193, 207, 1) 100% */
+  );
+}
+
 .link-user-ninja {
   background: rgb(64, 64, 122);
   /* background: linear-gradient(
