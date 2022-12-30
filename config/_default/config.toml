@@ -15,7 +15,7 @@ googleAnalytics = "G-7JC61E9ZWE"
     # { link-3 = { href = "https://quizizz.com/join?gc=910357", text = "Yarışmaya Katıl", icon = "flag" } },
     # { link-2 = { href = "https://forms.gle/pqX5G2xiiuWGgMeM9", text = "Tanışma Etkinliğine Katıl", icon = "align-left-solid" } },
     # { link-1 = { href = "https://forms.gle/16Ru7kF6Rmhfp7oa7", text = "Topluluğa Katıl", icon = "arrow-up-right-from-square-solid" } },
-    { link-1 = { href = "https://topluluk-etkinlik.uludag.edu.tr/Ogrenci", text = "Topluluğa Katıl", icon = "arrow-up-right-from-square-solid" } },
+    { link-1 = { href = "https://topluluk-etkinlik.uludag.edu.tr", text = "Topluluğa Katıl", icon = "arrow-up-right-from-square-solid" } },
     { user-ninja = { href = "https://ulusec.com", text = "UluSec Ana Sayfa", icon = "user-ninja" } },
     { discord = "https://dc.ulusec.com" },
     { instagram = "https://ig.ulusec.com" },
